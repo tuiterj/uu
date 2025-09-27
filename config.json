@@ -1,0 +1,13 @@
+{
+  "debug": false,
+  "show_cmd_window": true,
+  "server_port": 13625,
+  "x_client_transaction": {
+    "home_url": "https://x.com",
+    "refresh_interval_minutes": 10
+  },
+  "xpff": {
+    "base_key": "0e6be1f1e21ffc33590b888fd4dc81b19713e570e805d4e5df80a493c9571a05",
+    "default_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
+}
